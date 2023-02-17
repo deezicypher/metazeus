@@ -27,7 +27,7 @@ const GetStarted = () => (
           </motion.div>
    
       <motion.div 
-            variants={fadeIn('left', 'tween', 0.2, 1 )}
+            variants={fadeIn('right', 'tween', 0.2, 1 )}
             className="flex-[0.75] flex justify-center flex-col"
             >
               <TypingText title="| How METAZEUS Works" />
