@@ -23,7 +23,7 @@ const About = () => (
       variants={fadeIn('up','tween',0.2, 1)}
       className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white  "
       >
-<span className='font-extrabold text-white'>METAZEUS</span>, a realm of wonder,
+<span className='font-extrabold text-white'>METAZEUS</span>, a realm of wonder, become a god and create your own reality,
 Where dreams come to life like thunder,
 A metaverse of power and might,
 A world to explore day and night,With VR devices in our grasp,
