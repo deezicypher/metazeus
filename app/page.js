@@ -5,7 +5,7 @@ const Page = () => (
   <div className='bg-primary-black overflow-hidden '>
     <Navbar />
     <Hero />
-    <div className='relative'>
+    <div className='relative' id='about'>
     <About />
     <div className='gradient-03 z-0' />
     <Explore />
